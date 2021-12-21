@@ -13,10 +13,15 @@
     font-size: 40px;
   }
   
-  .color , .pixel {
+  .color {
     border: 1px solid black;
-    height: 40px;
+    height: 50px;
+    width: 50px;
+  }
+
+  .pixel {
     width: 40px;
+    height: 40px;
   }
   
   #pixel-board {
